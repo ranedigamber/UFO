@@ -1,5 +1,7 @@
 // Initialize the function
+function wordCounter(text) {
 
+}
   // Convert string to an array of words
   
 
