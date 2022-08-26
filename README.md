@@ -22,7 +22,7 @@ The goal of this project was to help Dana who is a UFO researcher create a table
     * One drawback of the filter setup is that two filter arguments cannot be simultaneously applied. For example; a user may want to filter based on shape and state. The current script does not have a provision for it.
   
   * Two recommendations for futher development
-    * First, some of the filter boxes should be dropdowns. Especially for the shapes cause the text to this box is not very intuitive. Also, considering that there are only so many number of shapes reported this should not be a difficut application to create.
+    * First, some of the filter boxes should be dropdowns. Especially for the shapes cause the text to this box is not very intuitive (there is one record that lists the shape as "changing", that's not a shape). Also, considering that there are only so many number of shapes reported this should not be a difficut application to create.
     * Second, the text in the filter boxes should not be case sensitive. Right now it is and may throw some users off
    
 
